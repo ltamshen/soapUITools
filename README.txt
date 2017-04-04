@@ -41,7 +41,7 @@ Edit the script and change the $Text variable to the name of the resource you ar
 Remember to open a powershell session and Set-ExecutionPolicy RemoteSigned before running.
 
 
-FindResourcesUpdated.jar - creates a report containing each test case and lists the REST endpoints it calls
+FindResourcesRefactored.jar - creates a report containing each test case and lists the REST endpoints it calls
 __________________________
 
 Same assumptions as above.
