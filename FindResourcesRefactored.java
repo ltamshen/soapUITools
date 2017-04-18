@@ -103,7 +103,7 @@ public class FindResourcesRefactored {
 	}
 	public static boolean foundResourcePath(String str){
 		 // parse the file for something like this:
-		 // resourcePath="/edm/api/V4/matters/{matterId}/fields" methodName="POSTFields" 
+		 // resourcePath="/xxx/api/V4/{Id}/fields" methodName="POSTFields" 
 		return str.indexOf("resourcePath") != -1;
 	}
 	
